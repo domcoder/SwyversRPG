@@ -1,0 +1,14 @@
+C:\Users\dom\source\repos\SwyversRPG\bin\Debug\net9.0\SwyversRPG.exe
+C:\Users\dom\source\repos\SwyversRPG\bin\Debug\net9.0\SwyversRPG.deps.json
+C:\Users\dom\source\repos\SwyversRPG\bin\Debug\net9.0\SwyversRPG.runtimeconfig.json
+C:\Users\dom\source\repos\SwyversRPG\bin\Debug\net9.0\SwyversRPG.dll
+C:\Users\dom\source\repos\SwyversRPG\bin\Debug\net9.0\SwyversRPG.pdb
+C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\SwyversRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\SwyversRPG.AssemblyInfoInputs.cache
+C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\SwyversRPG.AssemblyInfo.cs
+C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\SwyversRPG.csproj.CoreCompileInputs.cache
+C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\SwyversRPG.dll
+C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\refint\SwyversRPG.dll
+C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\SwyversRPG.pdb
+C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\SwyversRPG.genruntimeconfig.cache
+C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\ref\SwyversRPG.dll
