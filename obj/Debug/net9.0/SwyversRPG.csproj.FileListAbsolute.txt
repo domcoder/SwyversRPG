@@ -12,3 +12,4 @@ C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\refint\SwyversRPG.dll
 C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\SwyversRPG.pdb
 C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\SwyversRPG.genruntimeconfig.cache
 C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\ref\SwyversRPG.dll
+C:\Users\dom\source\repos\SwyversRPG\obj\Debug\net9.0\SwyversRPG.sourcelink.json

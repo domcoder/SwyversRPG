@@ -1,0 +1,1 @@
+// Moving all relevant data into permenant storage

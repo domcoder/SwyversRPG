@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwyversRPG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b221f0a526caf3081896ddf06f70908a42604ce5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwyversRPG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwyversRPG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

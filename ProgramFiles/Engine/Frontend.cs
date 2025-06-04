@@ -1,0 +1,1 @@
+// Game menu structure including inventory, handling user input and a basic UI
